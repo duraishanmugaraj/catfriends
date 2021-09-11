@@ -4,7 +4,7 @@ CatFriends is a React app that lets you search between different API generated r
 
 Checkout -> https://duraishanmugaraj.github.io/catfriends/
 
-![image](https://user-images.githubusercontent.com/68941801/132940786-c77588b2-0890-4032-8db7-6accd11bb5df.png)
+![image](https://user-images.githubusercontent.com/68941801/132940897-44ff3ad9-93b4-4134-a603-a7884c13063b.png)
 
 ## Technologies Used
 
